@@ -55,7 +55,7 @@ These documents inform users about their rights, data collection practices, and 
 
 ## 📬 Contact & Connect
 
-- ✉️ Email: [your-email@example.com]
+- ✉️ Email: [kvideraben@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/ben-kvidera/)
 - 💻 [GitHub](https://github.com/kvidera-ben)
 
