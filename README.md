@@ -18,7 +18,7 @@ This is the repository for my **personal portfolio website**, built using an HTM
 ## 🛠️ Technologies Used
 
 - HTML5 & CSS3
-- JavaScript (minimal enhancementsn)
+- JavaScript (no enhancements)
 - Google Analytics
 
 > **Note:** I did not write the original JavaScript code; it was provided by the template I implemented. The HTML and CSS were also part of the template, with some custom modifications.
